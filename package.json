@@ -1,0 +1,12 @@
+{
+  "name": "node-echo-server",
+  "version": "1.0.0",
+  "description": "A simple echo server using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbino",
+  "license": ""
+}
